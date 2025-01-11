@@ -1,0 +1,3 @@
+Name : Ishwari Rajendra Khobare
+Year : T.E Computer
+Description :This Python project is a web server that manages employee payroll data stored in a MySQL database. It provides APIs to retrieve employee details, payroll logs, and individual payroll records in JSON format. The server connects to the database using mysql.connector and handles HTTP requests via Python’s http.server module. Key endpoints include /employees for employee details, /payroll for payroll logs, and /payroll/<employee_id> for specific employee payroll data. The server starts on port 9090 and is designed to be scalable for future enhancements, making payroll management efficient and accessible.
